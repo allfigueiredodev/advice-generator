@@ -1,0 +1,6 @@
+.container {
+    width: clamp(345px, 50%, 540px);
+    height: clamp(315px, 30%, 330px);
+    background-color: #313a49;
+    border-radius: 10px;    
+}

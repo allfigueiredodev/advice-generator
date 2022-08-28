@@ -1,0 +1,17 @@
+.botao {
+    background-image: url(../../../public/imagens/icon-dice.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    background-color: rgb(83, 255, 171) ;
+    position: absolute;
+    top: 243px; 
+    cursor: pointer;
+}
+
+.botao:hover {
+    box-shadow: 0em 0em 2em 1em rgba(83, 255, 171, 0.3), inset 0em 0em 1em 2em rgba(83, 255, 171, 0.2);
+}
