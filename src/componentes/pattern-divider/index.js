@@ -1,4 +1,4 @@
-import '../pattern-divider/pattern-divider.css'
+import './pattern-divider.css'
 
 function PatternDivider () {
     return (
