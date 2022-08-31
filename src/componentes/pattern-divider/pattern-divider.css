@@ -1,4 +1,5 @@
 .pattern-divider {
+    background-image: url(../../../public/imagens/pattern-divider-mobile.svg);
     width: 80%;
     max-width: 444px;
     height: 1rem;
