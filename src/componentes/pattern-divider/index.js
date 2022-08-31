@@ -1,9 +1,9 @@
 import './pattern-divider.css'
+import divider from '../../assets/imagens/pattern-divider-mobile.svg'
 
 function PatternDivider () {
     return (
-        // <img className='pattern-divider' src='../../../imagens/pattern-divider-mobile.svg' alt='pattern-divider'></img>
-        <div className='pattern-divider'></div>
+        <img className='pattern-divider' src={divider} alt='pattern-divider'></img>
     )
 }
 
